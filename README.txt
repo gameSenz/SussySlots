@@ -1,0 +1,1 @@
+This is an amongus themed slot machine I made for my CS2 Final. It used javaFX for its gui elements, said javaFX elements are in their own class. Client file to run the program, and a seperate class to store user data from play.
